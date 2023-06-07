@@ -89,7 +89,7 @@ namespace Noam.ViewModels
                 }
             }
 
-            // divide int the totalPoints to calculate average 
+            // divide in the totalPoints to calculate average 
             return dp[numCourses, dpSize] / totalPoints;
         }
 
