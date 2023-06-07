@@ -7,6 +7,10 @@ using System.Windows.Input;
 
 namespace Noam.Models
 {
+    /*
+     * Class Student
+     * Holds the details about a student and his courses.
+     */
     public class Student
     {
         public string? Id { get; set; }

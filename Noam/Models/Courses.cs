@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Noam.Models
 {
+    /*
+     * Class Courses
+     * Holds the details about a course
+     */
     public class Courses
     {
 
